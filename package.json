@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/bohma/Blog-Node.js-Express-MongoDB-/issues"
   },
-  "homepage": "https://github.com/bohma/Blog-Node.js-Express-MongoDB-#readme"
+  "homepage": "https://github.com/bohma/Blog-Node.js-Express-MongoDB-#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-node": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=8.10.0"
+}
+
 }
