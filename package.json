@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,13 +20,13 @@
   "homepage": "https://github.com/bohma/Blog-Node.js-Express-MongoDB-#readme",
   "devDependencies": {
     "eslint": "^6.6.0",
-    "eslint-plugin-node": "^10.0.0"
+    "eslint-plugin-node": "^10.0.0",
+    "nodemon": "^1.19.4"
   },
   "engines": {
     "node": ">=8.10.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^1.19.4"
+    "express": "^4.17.1"
   }
 }
