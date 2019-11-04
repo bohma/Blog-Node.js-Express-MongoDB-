@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohma/Blog-Node.js-Express-MongoDB-.git"
+  },
+  "author": "\"Bohdan Mashtaler\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohma/Blog-Node.js-Express-MongoDB-/issues"
+  },
+  "homepage": "https://github.com/bohma/Blog-Node.js-Express-MongoDB-#readme"
+}
